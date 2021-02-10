@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pro Digital Marketing Australia",
+    "description": "",
+    "home_page_url": "https://elaineaqs.github.io/gh-pages",
+    "feed_url": "https://elaineaqs.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Pro Digital Marketing"
+    },
+    "items": [
+        {
+            "id": "https://elaineaqs.github.io/gh-pages/hi/",
+            "url": "https://elaineaqs.github.io/gh-pages/hi/",
+            "title": "Hi",
+            "summary": "This is the first blog post",
+            "content_html": "<p>This is the first blog post</p>\n",
+            "author": {
+                "name": "Pro Digital Marketing"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-09T21:14:18+08:00",
+            "date_modified": "2021-02-09T21:14:18+08:00"
+        }
+    ]
+}
